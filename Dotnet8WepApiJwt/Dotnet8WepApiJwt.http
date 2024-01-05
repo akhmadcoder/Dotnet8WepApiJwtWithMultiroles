@@ -1,0 +1,6 @@
+@Dotnet8WepApiJwt_HostAddress = http://localhost:5089
+
+GET {{Dotnet8WepApiJwt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
